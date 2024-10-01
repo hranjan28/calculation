@@ -9,3 +9,7 @@ int mul(inta, intb)
  return a*b
 }  
   
+int sum(int a, intb)
+{
+return a+b;
+}
